@@ -32,11 +32,4 @@ The development of weAR it involves the following methodologies:
 
 2. **MediaPipe**: We leverage MediaPipe, a real-time data processing framework, for accurate tracking and mapping of clothing items in augmented reality. MediaPipe's versatility in working with different cameras, including lower-resolution ones, makes it accessible to a wide range of users.
 
-## Installation
 
-To try out weAR it, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/username/wear-it.git
