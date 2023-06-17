@@ -2,6 +2,8 @@
 
 ![weAR it Logo](https://github.com/OliverNagy10/weAR-it/blob/main/Logo.png)
 
+# [weAR IT Report](https://github.com/OliverNagy10/weAR-it/blob/main/weARIT_Report.pdf)
+
 **weAR it** is an augmented reality application that revolutionizes the way we shop for clothing. By leveraging advanced technologies such as Unity Game Engine and MediaPipe, this app allows users to virtually try on clothing using their smartphone camera. With high-quality graphics, accurate tracking, and an intuitive user interface, weAR it offers a unique and interactive shopping experience.
 
 ## Abstract
